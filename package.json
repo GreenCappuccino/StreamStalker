@@ -1,0 +1,19 @@
+{
+  "name": "streamstalker",
+  "version": "1.0.0",
+  "description": "Library to detect whether a given channel is live without API keys. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenCappuccino/StreamStalker.git"
+  },
+  "author": "Brian Lu",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GreenCappuccino/StreamStalker/issues"
+  },
+  "homepage": "https://github.com/GreenCappuccino/StreamStalker#readme"
+}
